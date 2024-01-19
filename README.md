@@ -1,9 +1,8 @@
 ## Olá!! Eu sou Caio Gomes 😜💫
 
 <div>
-  <a href="https://github.com/GomesKay">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GomesKay&anuraghazra&theme=github_dark&show_icons=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesKay&anuraghazra&theme=github_dark&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GomesKay&anuraghazra&theme=github_dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesKay&anuraghazra&theme=github_dark&layout=compact">
 </div>
 
 <div>
