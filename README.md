@@ -7,9 +7,9 @@
 
 <div>
   <h2>GitHub Stats</h2>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GomesKay&theme=github-dark-blue" />
+  <img width="50%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GomesKay&theme=github-dark-blue" />
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GomesKay&anuraghazra&theme=github_dark&show_icons=true" />-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesKay&anuraghazra&theme=github_dark&layout=compact" />
+  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesKay&anuraghazra&theme=github_dark&layout=compact" />
 </div>
 
 <div>
