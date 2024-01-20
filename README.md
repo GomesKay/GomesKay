@@ -21,6 +21,4 @@
   <a href="https://open.spotify.com/playlist/6cA6biOSHUJVhdNU5XCKzb" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </div>
 
-![Snake Animation](https://github.com/GomesKay/GomesKay/blob/output/github-contribution-grid-snake.svg)
 
-[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=GomesKay&repo=GomesKay&theme=react)](https://github.com/GomesKay/GomesKay)
