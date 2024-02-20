@@ -1,6 +1,6 @@
 # Olá!! Eu sou Caio Gomes 😜💫
 
-<img width="100%" src="https://64.media.tumblr.com/52a93787f594c281dd6adce2c33be617/01b6497af341ec96-df/s500x750/0a95e7706fd9b0c96a54ba61cc8efc4b813b41f5.gifv" />
+<img width="100%" src="https://www.icegif.com/wp-content/uploads/icegif-1560.gif" alt="https://64.media.tumblr.com/52a93787f594c281dd6adce2c33be617/01b6497af341ec96-df/s500x750/0a95e7706fd9b0c96a54ba61cc8efc4b813b41f5.gifv" />
 
 ## Sobre Mim
 * Desenvolvedor Front-End estudando React.JS e aprimorando os conhecimentos a cada semana e programando projetos.
