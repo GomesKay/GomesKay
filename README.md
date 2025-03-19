@@ -1,8 +1,8 @@
 # Olá!! Meu nome é Caio Gomes 💫
 
-<img width="100%" src="https://github.com/user-attachments/assets/a0714bc3-3069-4e1b-972b-0bc7237eccca" />
+<img width="100%" src="https://github.com/user-attachments/assets/71ade8cb-918d-473f-8ed3-f1e16397391a" />
 
-<!-- <img width="100%" src="https://github.com/user-attachments/assets/71ade8cb-918d-473f-8ed3-f1e16397391a" /> -->
+<!-- <img width="100%" src="https://github.com/user-attachments/assets/a0714bc3-3069-4e1b-972b-0bc7237eccca" /> -->
 <!-- <img width="100%" src="https://github.com/GomesKay/GomesKay/assets/85319481/593a77c8-f2da-408b-9cf5-7db347c7f516" alt="Boba-Fett" /> -->
 
 ## 🧑‍💻 Sobre Mim
@@ -31,6 +31,7 @@
   <img title="PrismaORM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="35" /> &nbsp;
   <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" /> &nbsp;
   <img title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="35" /> &nbsp;
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" /> &nbsp;
   <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" /> &nbsp;
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" /> &nbsp;
   <img title="GitHub" src="https://github.com/GomesKay/GomesKay/assets/85319481/0cfb8b8d-efef-4e26-bc6b-b4af1779768a" width="35" /> &nbsp;
