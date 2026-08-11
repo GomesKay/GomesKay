@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://github.com/GomesKay/GomesKay/assets/85319481/593a77c8-f2da-408b-9cf5-7db347c7f516" alt="Boba-Fett" />
 
+<!--<img width="100%" src="https://github.com/user-attachments/assets/1627d157-c178-403f-a510-18de5fb44fd2" alt="Mario-Programmer" />-->
+
 <div align="center">
   <h2>🌟 GitHub Stats</h2>
 
